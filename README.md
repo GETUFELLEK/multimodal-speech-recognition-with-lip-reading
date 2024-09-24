@@ -1,7 +1,4 @@
-# multimodal-speech-recognition-with-lip-reading
-Here’s a **README.md** file for your multimodal speech recognition with lip-reading project:
 
----
 
 # Multimodal Speech Recognition with Lip Reading
 
@@ -106,4 +103,4 @@ Contributions are welcome! Feel free to submit a pull request or open an issue i
 
 ---
 
-This `README.md` provides a clear overview of your project, along with detailed instructions on how to install, run, and extend the system. Let me know if you need any modifications!
+
